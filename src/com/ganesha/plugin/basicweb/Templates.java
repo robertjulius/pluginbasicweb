@@ -9,7 +9,6 @@ public class Templates {
 	static {
 		files.add("templates/.classpath");
 		files.add("templates/.project");
-		files.add("templates/.settings/.gitignore");
 		files.add("templates/.settings/.jsdtscope");
 		files.add("templates/.settings/org.eclipse.jdt.core.prefs");
 		files.add("templates/.settings/org.eclipse.m2e.core.prefs");
@@ -252,7 +251,6 @@ public class Templates {
 		files.add("templates/src/main/webapp/template/top_xhtml/updownselect.ftl");
 		files.add("templates/src/main/webapp/template/top_xhtml/validation.js");
 		files.add("templates/src/main/webapp/template/xhtml/head.ftl");
-		files.add("templates/src/main/webapp/WEB-INF/.gitignore");
 		files.add("templates/src/main/webapp/WEB-INF/applicationContext.xml");
 		files.add("templates/src/main/webapp/WEB-INF/ganesha-tags.tld");
 		files.add("templates/src/main/webapp/WEB-INF/lib/hibernate-annotations.jar");
